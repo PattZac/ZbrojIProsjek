@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\bin\Debug\ZbrojIProsjek.exe.config
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\bin\Debug\ZbrojIProsjek.exe
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\bin\Debug\ZbrojIProsjek.pdb
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\obj\Debug\ZbrojIProsjek.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\obj\Debug\ZbrojIProsjek.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\obj\Debug\ZbrojIProsjek.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\obj\Debug\ZbrojIProsjek.exe
+C:\Users\ucenik\source\repos\ZbrojIProsjek\ZbrojIProsjek\obj\Debug\ZbrojIProsjek.pdb
